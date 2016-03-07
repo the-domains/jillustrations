@@ -1,6 +1,6 @@
 name: Jillustrations
 favicon: null
-layout_spectrum: 0.24519
+layout_spectrum: 1
 typography_spectrum: 0.058701283764094114
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7765353773720562
-  lightness: 0.64104481972754
-  saturation: 0.8853822292294353
-  rhythmicContrast: 0.6539497894700617
+    - '#eae8d2'
+    - '#f3c12d'
+    - '#5f200c'
+    - '#cc8d3a'
+    - '#a45e1b'
+  brandStrength: 0.25
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
