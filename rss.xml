@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jillustrations]]></title>
-        <description><![CDATA[Jillustrations]]></description>
+        <title><![CDATA[Online Portfolio and Blog]]></title>
+        <description><![CDATA[Online Portfolio and Blog]]></description>
         <link>https://thegrid.ai/jillustrations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 18:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 18:26:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jillustrations/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World, it's me!]]></title>
-            <description><![CDATA[<article><h1>Hello World, it's me!</h1><p> Wow, okay, The Grid Beta Account UNLOCKED! Whoop Whoop! Now let's see what I can do with this baby. very exciting. What I want, basically, is an art portfolio combined with some blog stuffs like occasional blurps and sketches etc.So, let's have some of my art to begin with, I think :D </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/954c6d893756f8c0004d499a3d9949d5277399a2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Hello World, it's me!</h1><p> Wow, okay, The Grid Beta Account UNLOCKED! Whoop Whoop! Now let's see what I can do with this baby. very exciting. What I want, basically, is an art portfolio combined with some blog stuffs like occasional blurps and sketches etc.So, let's have some of my art to begin with, I think :D </p></article>]]></description>
             <link>https://thegrid.ai/jillustrations/hello-world-its-me/index.html</link>
             <guid isPermaLink="false">59e60b93-7a97-4614-8838-753986bd24c4</guid>
-            <pubDate>Mon, 07 Mar 2016 18:03:03 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 18:26:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
