@@ -1,7 +1,7 @@
 name: Jillustrations
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.05079
+typography_spectrum: 0.07066
 title: Online Portfolio and Blog
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#a45e1b'
   brandStrength: 0.25
   lightness: 0.75
-  saturation: 0.25
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
